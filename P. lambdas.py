@@ -12,6 +12,7 @@ print("Lambdas")
 
 print("\n")
 
+
 print("Single Argument")
 add_4 = lambda x : x + 4
 #Call anonymous lambda and pass for to 'x
@@ -50,7 +51,6 @@ print((lambda x, y: x +y)(10,4))
 
 
 print("\n")
-
 
 
 #Lambdas can be useful for short function expressions
