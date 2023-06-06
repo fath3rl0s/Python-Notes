@@ -1,3 +1,6 @@
+Python_Notes_1
+#Carlos Enamorado
+
 These are personal notes on learning Python
 The purpose is for offensive scripting, not application builds
 
