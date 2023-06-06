@@ -9,7 +9,8 @@ Learn with small, targeted applications
 
 
 Python-Notes (basic syntax and theory)
-|__ Python-Notes 1.2 (Package Manager, Virtual Environments)
+
+Python-Notes 2 (Package Manager, Virtual Environments)
 
 
 Thanks!
