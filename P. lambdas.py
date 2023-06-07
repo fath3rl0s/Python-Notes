@@ -47,7 +47,7 @@ print("\n")
 #We can also use anonymous expressions defined as part of the lambda
 print("Anonymous Expression in Lambda")
 
-print((lambda x, y: x +y)(10,4))
+print((lambda x, y: x + y)(10, 4))
 
 
 print("\n")
